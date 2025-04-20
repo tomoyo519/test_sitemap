@@ -1,5 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://jolly-syrniki-300e91.netlify.app/fixed-sitemap-1.xml
-Sitemap: https://jolly-syrniki-300e91.netlify.app/fixed-sitemap-2.xml
